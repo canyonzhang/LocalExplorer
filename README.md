@@ -20,23 +20,27 @@ ListView of saved locations.
 Recommendations Page:
 
 Personalized recommendations using Google Places API.
+
 Evolving recommendations based on user interactions and ratings.
+
 Profile Page:
 Set and edit preferences for tailored recommendations.
 Account management settings.
+
 Target Audience
 Age: 18 – 35 years old.
 Tech-savvy individuals who enjoy exploring new and familiar places.
 Interests: Travel, culture, food, adventure, and social activities.
-Technology Stack
-Core Location and MapKit: For real-time location tracking and mapping.
-Google Places API: Access detailed information on local attractions.
-CloudKit: Secure storage for user data in iCloud.
-SwiftUI and Swift: Main technologies for app development.
-CoreData: Persistent storage of user data on the device.
-Firebase: For user authentication and additional cloud storage.
-Setup and Installation
-Note: This app is developed for iOS 17 using SwiftUI.
+
+Stack
+- Core Location and MapKit: For real-time location tracking and mapping.
+- Google Places API: Access detailed information on local attractions.
+- CloudKit: Secure storage for user data in iCloud.
+- SwiftUI and Swift: Main technologies for app development.
+= CoreData: Persistent storage of user data on the device.
+- Firebase: For user authentication and additional cloud storage.
+- Setup and Installation
+- Note: This app is developed for iOS 17 using SwiftUI.
 
 Clone the repository:
 bash
@@ -54,7 +58,7 @@ open LocalExplorer.xcworkspace
 Build and run the app in the simulator or on a physical device.
 
 Contribution
-If you wish to contribute to this project, please fork the repository and submit a pull request.
+If you want to contribute to this project, please fork the repository and submit a pull request.
 For major changes, please open an issue first to discuss what you would like to change.
 License
 MIT License
