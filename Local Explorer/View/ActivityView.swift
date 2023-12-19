@@ -29,6 +29,7 @@ struct ActivityView: View {
     }
 }
 
+// This is a comment
 
 #Preview {
     ActivityView()
