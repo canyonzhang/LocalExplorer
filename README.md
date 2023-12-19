@@ -42,7 +42,7 @@ Clone the repository:
 bash
 Copy code
 git clone git@github.com:canyonzhang/LocalExplorer.git
-Install dependencies (if any):
+Install dependencies:
 
 Copy code
 pod install
